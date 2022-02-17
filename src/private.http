@@ -1,0 +1,2 @@
+GET http://localhost:6001/private
+Authorization: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6ImV1bmNodXJuIiwiaWF0IjoxNjQ1MDY2NDY3fQ.GcXZcVaKM2NUQ67_aYh4fwTGnnOq3Ckn5I--cBJE_sw
